@@ -1,0 +1,2 @@
+-- Initial SQL script executed when the database container starts for the first time
+-- Add any initial schema or seed data here.
